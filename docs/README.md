@@ -1,6 +1,6 @@
 ---
 home: true
-heroImage: /images/photo.jpg
+heroImage: /images/photo.png
 actionText: 快速上车 →
 actionLink: guide.html
 features:
